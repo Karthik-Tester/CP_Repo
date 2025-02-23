@@ -7,6 +7,9 @@ public class SecondProgram {
 			sum=sum+i;
 			System.out.println(sum);
 		}
+		System.out.println("Java is Hard too");
+		System.out.println("Hello");
+		
 	}
 
 }
