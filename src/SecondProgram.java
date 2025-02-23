@@ -9,7 +9,7 @@ public class SecondProgram {
 		}
 		System.out.println("Java is Hard too");
 		System.out.println("Hello");
-		
+		System.out.println("I am Karthik");
 	}
 
 }
